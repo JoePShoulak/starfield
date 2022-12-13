@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/starfield/static/css/main.7a0d8c66.css",
-    "main.js": "/starfield/static/js/main.c2a58a15.js",
+    "main.js": "/starfield/static/js/main.ece1e57a.js",
     "static/js/787.37044aff.chunk.js": "/starfield/static/js/787.37044aff.chunk.js",
     "index.html": "/starfield/index.html",
     "main.7a0d8c66.css.map": "/starfield/static/css/main.7a0d8c66.css.map",
-    "main.c2a58a15.js.map": "/starfield/static/js/main.c2a58a15.js.map",
+    "main.ece1e57a.js.map": "/starfield/static/js/main.ece1e57a.js.map",
     "787.37044aff.chunk.js.map": "/starfield/static/js/787.37044aff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a0d8c66.css",
-    "static/js/main.c2a58a15.js"
+    "static/js/main.ece1e57a.js"
   ]
 }
