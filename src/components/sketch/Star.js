@@ -1,3 +1,5 @@
+import { display } from "./helper";
+
 class Star {
   constructor(
     /** @type {import("p5").p5InstanceExtensions} */
@@ -59,8 +61,7 @@ class Star {
     this.p5.circle(this.zPos.x, this.zPos.y, this.radius);
     this.p5.stroke(255);
 
-    if (this.radius > 1)
-      this.p5.line(this.prevZPos.x, this.prevZPos.y, this.zPos.x, this.zPos.y);
+    if (this.radius > 1) display(this.p5).newLine(this.prevZPos, this.zPos);
   }
 }
 

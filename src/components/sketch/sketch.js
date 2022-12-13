@@ -19,6 +19,7 @@ const sketch = (
     p5.background(0);
 
     p5.translate(p5.width / 2, p5.height / 2);
+
     stars.forEach(star => star.update());
   };
 };
